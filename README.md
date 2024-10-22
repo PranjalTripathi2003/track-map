@@ -42,7 +42,7 @@ This project is a real-time location tracking application, similar to those used
 4. Run the server:
 
    ```bash
-   npm start
+   node app.js
    ```
 
 5. Open your browser and navigate to `http://localhost:5000` to view the application.
